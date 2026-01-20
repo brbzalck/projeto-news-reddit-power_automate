@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Dados e Logs
+*.log
+database.db
+output/*.json
+
+# Configurações Sensíveis
+config.yaml
+cookies.json
+twitter_cookies.json
+
+# Power BI (Opcional: Geralmente subimos o .pbix, mas arquivos de cache não)
+*.pbix.temp
+
+# IDE
+.vscode/
