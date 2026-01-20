@@ -1,4 +1,4 @@
-# 🤖 Global AI Sentinel: USA vs China Narratives
+# Inteligência Artificial: Monitor Global de Narrativas e Opniões
 
 ![Status](https://img.shields.io/badge/Status-Finished-success)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
@@ -12,9 +12,7 @@
 
 ## 📸 Dashboard Preview
 
-*(Substitua a imagem abaixo por um print real do seu dashboard)*
-
-![Dashboard Overview](https://via.placeholder.com/800x400?text=Insira+Print+do+Dashboard+Aqui)
+![Dashboard Overview](assets/dashboard_overview.png)
 
 ---
 
